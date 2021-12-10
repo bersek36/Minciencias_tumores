@@ -1,0 +1,7 @@
+ipykernel
+tensorflow
+nibabel
+numpy
+matplotlib
+sklearn
+natsort
